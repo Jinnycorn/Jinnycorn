@@ -53,7 +53,7 @@
 
 <h2 align="center"> 📲 Contact 📱 </h2>
 <p align="center">
-<a href="mailto:wldms949494@gmail.com">
+<a href="wldms949494@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
