@@ -5,7 +5,7 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
-
+<!-- 
 <h3 align="center"> Interest </h2>
 <p align="center">User Experience<br/>VR/AR/Unity<br/></p>
 
@@ -59,5 +59,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 <br/>
-
+ -->
          
